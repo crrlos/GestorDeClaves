@@ -20,6 +20,8 @@ namespace git
         private void Form1_Load(object sender, EventArgs e)
         {
             //agregando un comentario de texto
+            int a;
+            int b;
         }
     }
 }
